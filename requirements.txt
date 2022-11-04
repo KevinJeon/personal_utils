@@ -41,6 +41,7 @@ dependencies:
   - libxslt=1.1.35=h5b33f42_0
   - llvm-openmp=14.0.6=h0dcd299_0
   - lz4-c=1.9.3=h23ab428_1
+  - natsort=7.1.1=pyhd3eb1b0_0
   - ncurses=6.3=hca72f7f_3
   - nspr=4.33=he9d5cce_0
   - nss=3.74=h47edf6a_0
